@@ -1,0 +1,47 @@
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Form2.resources
+C:\Users\Дмитрий\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.Form3.resources
+E:\сдадим похуй\Calculator\bin\Debug\Calculator.exe.config
+E:\сдадим похуй\Calculator\bin\Debug\Calculator.exe
+E:\сдадим похуй\Calculator\bin\Debug\Calculator.pdb
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.Form1.resources
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.Form2.resources
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.Form3.resources
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.exe
+E:\сдадим похуй\Calculator\obj\x86\Debug\Calculator.pdb
+E:\калькулятор 28.09\Calculator\bin\Debug\Calculator.exe.config
+E:\калькулятор 28.09\Calculator\bin\Debug\Calculator.exe
+E:\калькулятор 28.09\Calculator\bin\Debug\Calculator.pdb
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.Form1.resources
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.Form2.resources
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.exe
+E:\калькулятор 28.09\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\bin\Debug\Calculator.exe
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.Form2.resources
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Дмитрий\Desktop\Краснопоп\Вычетание\Calculator\obj\x86\Debug\Calculator.pdb
